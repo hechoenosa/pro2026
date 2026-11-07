@@ -6,8 +6,8 @@ You already code. You build wherever you like, in your own GitHub account, publi
 
 | When | What | Where |
 |---|---|---|
-| Once, at the start | Send your idea | **[🚀 Pro project form](https://github.com/hechoenosa/pro2026/issues/new?template=pro.yml)** |
-| Every Sunday, 8 pm | 3 questions: what you did, what's next, blockers | **[📈 Pro weekly update](https://github.com/hechoenosa/pro2026/issues/new?template=pro-update.yml)** |
+| Once, at the start | Send your idea | **[🚀 Pro project form](https://hechoenosa.github.io/zerotohero2026/forms/pro.html)** |
+| Every Sunday, 8 pm | 3 questions: what you did, what's next, blockers | **[📈 Pro weekly update](https://hechoenosa.github.io/zerotohero2026/forms/pro-update.html)** |
 | Once, during the program | Meet your mentor | Your Mentor Room on WhatsApp |
 | By Thu 10 Dec | Your PRD, TRD and a demo link | Comments on your 🚀 Pro project issue |
 | Sat 12 Dec | Show it | Demo Day |
